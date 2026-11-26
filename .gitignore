@@ -1,0 +1,25 @@
+# Video/media inputs and generated outputs (never commit)
+inputs/
+outputs/
+scratch/
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.m4v
+*.webm
+*.wmv
+*.flv
+*.gif
+*.wav
+*.mp3
+*.aac
+*.m4a
+*.flac
+*.srt
+*.vtt
+*.ass
+*.jpg
+*.jpeg
+*.png
+*.webp

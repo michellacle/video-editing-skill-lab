@@ -1,0 +1,5 @@
+total 25M
+-rw-rw-r-- 1 michel michel 1.4M Nov 26 18:07 video_01_audio_16k.wav
+-rw-rw-r-- 1 michel michel 207K Nov 26 18:07 video_01_contact_sheet.jpg
+-rw-rw-r-- 1 michel michel 2.6M Nov 26 18:07 video_01_preview_10s.mp4
+-rw-rw-r-- 1 michel michel  30M Nov 26 18:07 video_01_vertical_1080x1920.mp4
